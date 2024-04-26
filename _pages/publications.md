@@ -37,7 +37,7 @@ Journals
 
 * [An empirical study on data distribution-aware test selection for deep learning enhancement](https://dl.acm.org/doi/pdf/10.1145/3511598)
   * Qiang Hu, **Yuejun Guo**, Maxime Cordy, Xiaofei Xie, Lei Ma, Mike Papadakis, Yves Le Traon
-* ACM Transactions on Software Engineering and Methodology (TOSEM) 31 (4), 1-30. 2022
+  * ACM Transactions on Software Engineering and Methodology (TOSEM) 31 (4), 1-30. 2022
 
 * [A scalable method to construct compact road networks from GPS trajectories](https://www.tandfonline.com/doi/pdf/10.1080/13658816.2020.1832229)
   * **Yuejun Guo**, Anton Bardera, Marta Fort, Rodrigo I Silveira
@@ -48,8 +48,8 @@ Journals
   * Sensors 19 (1), 84. 2018
 
 * [IBVis: Interactive visual analytics for information bottleneck based trajectory clustering](https://www.mdpi.com/1099-4300/20/3/159)
-* **Yuejun Guo**, Qing Xu, Mateu Sbert
-* Entropy 20 (3), 159. 2018
+  * **Yuejun Guo**, Qing Xu, Mateu Sbert
+  * Entropy 20 (3), 159. 2018
 
 * [Trajectory shape analysis and anomaly detection utilizing information theory tools](https://www.mdpi.com/1099-4300/19/7/323)
   * **Yuejun Guo**, Qing Xu, Peng Li, Mateu Sbert, Yu Yang
@@ -60,8 +60,8 @@ Journals
   * Neural Computing and Applications, 1-17. 2017
 
 * [Selecting video key frames based on relative entropy and the extreme studentized deviate test](https://www.mdpi.com/1099-4300/18/3/73)
-* **Yuejun Guo**, Qing Xu, Shihua Sun, Xiaoxiao Luo, Mateu Sbert
-* Entropy 18 (3), 73. 2016
+  * **Yuejun Guo**, Qing Xu, Shihua Sun, Xiaoxiao Luo, Mateu Sbert
+  * Entropy 18 (3), 73. 2016
 
 Conferences
 ======
