@@ -44,7 +44,7 @@ Projects
   * March 2024 - present 
   * Collaborate with [CURE Intelligence](https://www.cure-intelligence.com/en/home-en/). 
 
-*  Secure5Gexp - POST Secure 5G Experience
+* Secure5Gexp - POST Secure 5G Experience
   * June 2023 - present 
   * Collaborate with [POST Luxembourg](https://www.post.lu/).
 
