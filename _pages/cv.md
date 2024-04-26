@@ -37,12 +37,6 @@ Skills
 * Programming Language: Python, C++, Matlab
 * Datasets: SQL, SQLite
 * Frameworks and libraries: Pytorch, Tensorflow, Keras, HuggingFace, LangChain
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Projects
 ======
