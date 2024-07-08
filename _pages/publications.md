@@ -65,10 +65,13 @@ Journals
 
 Conferences
 ======
+* [Outside the Comfort Zone: Analysing LLM Capabilities in Software Vulnerability Detection](http://Yuejun-GUO.github.io/files/ESORICS2024.pdf)
+  * **Yuejun Guo**, Constantinos Patsakis, Qiang Hu, Qiang Tang, Fran Casino
+  * 29th European Symposium on Research in Computer Security (ESORICS). 2024
+
 * [An Empirical Study of the Imbalance Issue in Software Vulnerability Detection](http://Yuejun-GUO.github.io/files/imbalance_software_vulnerability_detection_2023.pdf)
   * **Yuejun Guo**, Qiang Hu, Qiang Tang, Yves Le Traon
   * 28th European Symposium on Research in Computer Security (ESORICS). 2023
-
 
 * [Boosting Source Code Learning with Text-Oriented Data Augmentation: An Empirical Study](https://qrs23.techconf.org/download/webpub/pdfs/QRS-C2023-56EpUKA3a3CGa6xc1KYNzL/593900a373/593900a373.pdf)
   * Zeming Dong, Qiang Hu, **Yuejun Guo**, Zhenya Zhang, Jianjun Zhao
