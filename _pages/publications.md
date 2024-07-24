@@ -7,11 +7,11 @@ author_profile: true
 
 Journals
 ======
-* [A comprehensive analysis on software vulnerability detection datasets: trends, challenges, and road ahead](https://link-springer-com.proxy.bnl.lu/article/10.1007/s10207-024-00888-y)
+* [A Comprehensive Analysis on Software Vulnerability Detection Datasets: Trends, Challenges, and Road Ahead](https://link.springer.com/article/10.1007/s10207-024-00888-y)
   * **Yuejun Guo**, Seifeddine Bettaieb, Fran Casino
   * Internation Journal of Information Security. 2024
  
-* [Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study](https://link-springer-com.proxy.bnl.lu/article/10.1007/s10664-024-10515-y)
+* [Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study](https://link.springer.com/article/10.1007/s10664-024-10515-y)
   * Xueqi Dang, Yinghua Li, Wei Ma, **Yuejun Guo**, Qiang Hu, Mike Papadakis, Maxime Cordy, Yves Le Traon
   * Empirical Software Engineering. 2024
 
