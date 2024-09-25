@@ -73,6 +73,10 @@ Journals
 
 Conferences
 ======
+* Automated Dependency Mapping for Web API Security Testing Using Large Language Models
+  * Wanpeng, Li, **Yuejun Guo**
+  * ACM SIGSAC Conference on Computer and Communications Security (CCS). 2024
+
 * [Outside the Comfort Zone: Analysing LLM Capabilities in Software Vulnerability Detection](http://Yuejun-GUO.github.io/files/ESORICS2024.pdf)
   * **Yuejun Guo**, Constantinos Patsakis, Qiang Hu, Qiang Tang, Fran Casino
   * 29th European Symposium on Research in Computer Security (ESORICS). 2024
