@@ -57,7 +57,6 @@ Projects
 
 * STELLAR - Testing Self-learning Systems
   * May 2020 - September 2022 
-  * Collaborate with [POST Luxembourg](https://www.post.lu/). 
 
 * Laboratory of Graphics and Image
   * January 2017 - May 2020
