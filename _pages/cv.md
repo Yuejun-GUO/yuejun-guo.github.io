@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* January 2023 - present: R&T Associate
+* July 2024 - Present: Senior R&T Scientist
+  * Luxembourg Institute of Science and Technology
+
+* January 2023 - June 2024: R&T Associate
   * Luxembourg Institute of Science and Technology
 
 * October 2022 - December 2022: Junior R&T Associate
